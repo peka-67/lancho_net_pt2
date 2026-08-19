@@ -1,0 +1,53 @@
+
+/* inicio do css do login (index) */
+#card-senha {
+    border-radius: 12px;
+    padding: 10px;
+   /* background-color: rgb(217, 217, 217);  */
+    align-items: center;
+    justify-content: center;
+    border: none;
+    
+}
+
+.container-fluid {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: oklch(54.6% 0.245 262.881);
+}
+
+.mb-3 label {
+    font-family: Arial;
+    font-size: 15px;
+}
+
+/* fim do css do login */
+
+/* inicio do css da dashboard */
+
+.sidebar {
+    padding: 12px;
+    background-color: oklch(80.9% 0.105 251.813); 
+    width: 30vw; 
+    height: 100vh;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: black;
+}
+
+.sidebar a : {
+    border: white;
+    border-radius: 12px;
+
+}
+
+/* fim do css da dashboard */
