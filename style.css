@@ -1,3 +1,10 @@
+.item-main {
+    border-radius: 10px;
+    border-color: black;
+    border: 4px;
+    
+}
+
 
 /* inicio do css do login (index) */
 #card-senha {
@@ -44,10 +51,5 @@ button {
     color: black;
 }
 
-.sidebar a : {
-    border: white;
-    border-radius: 12px;
-
-}
 
 /* fim do css da dashboard */
