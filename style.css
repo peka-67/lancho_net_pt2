@@ -1,33 +1,17 @@
-
-#card-senha {
-    border-radius: 12px;
-    padding: 10px;
-   /* background-color: rgb(217, 217, 217);  */
-    align-items: center;
-    justify-content: center;
-    border: none;
-    
-}
-
-.container-fluid {
-    width: 80vw;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-button {
-    background-color: oklch(54.6% 0.245 262.881);
-}
-
-.mb-3 label {
-    font-family: Arial;
-    font-size: 15px;
-}
+/* inicio do css do login */
 
 /* fim do css do login */
 
 /* inicio do css da dashboard */
+
+    #numeroFaturamento {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+    #numeroPedidos {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
 /* fim do css da dashboard */
