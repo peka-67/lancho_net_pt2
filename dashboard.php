@@ -19,13 +19,18 @@
 
 <body class="body">
  
-  <div style="display:flex; flex-direction: row;" class="container-fluid">
+  <div style="display:flex;  flex-direction: row; justify-content: start;" class="container-fluid">
     <div>
       <?php
       include './fragmentos/menulateral.php'
         ?>
     </div>
+    <div class="topbar">
+      <h1> Olá! fulano </h1>
+      <hr>
+      </div>
     <div style="display: flex; flex-direction: column; gap: 3vw; justify-content: center;" class="container-fluid">
+      
       <div style="gap: 3vw; display: flex; flex-direction: row;">
         <div class="card" style="width: 18rem">
           <div class="card-body">
